@@ -1,5 +1,4 @@
 =
 i
-echo "ALX school"
->>>>>>> update_script
+echo ['ALX school']
 
